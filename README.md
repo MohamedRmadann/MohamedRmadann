@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Robotics and IoT projects:</h2>
 
-- <b>Oil Guard: Esp32 Oil monitoring system implemented with Mobile application</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Arduino & Esp32</b>
+  - [Oil Guard: Esp32 Oil monitoring system](https://github.com/MohamedRmadann/Oil-Guard-Esp32-Oil-Monitoring-System/blob/main/README.md)
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
