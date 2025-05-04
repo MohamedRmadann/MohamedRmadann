@@ -6,7 +6,7 @@
   - [Oil Guard: Esp32 Oil monitoring system](https://github.com/MohamedRmadann/Oil-Guard-Esp32-Oil-Monitoring-System/blob/main/README.md)<br>
 - <b>Rasberry pi pico</b>
   - [Embedded Voltmeter](https://github.com/MohamedRmadann/EmbeddedVoltmeter)
-  - [Embedded Input Reader]()
+  - [Embedded Input Reader](https://github.com/MohamedRmadann/Voltmeter)
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
