@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohamed Ramadan! <br/><a href="https://www.stemegypt.net/" target="_blank">Senior Student at STEM High School Egypt</a>
+<h1>Hi, I'm Mohamed Ramadan! <br/><a href="https://www.stemegypt.net/" target="_blank" rel="noopener noreferrer">Senior Student at STEM High School Egypt</a>
 
 <h2>👨‍💻 Robotics and IoT projects:</h2>
 
